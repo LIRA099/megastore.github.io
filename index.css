@@ -1,0 +1,20 @@
+header{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: crimson;
+    padding: 30px;
+    align-items: center;
+    display: flex;
+    
+}
+body{
+    background-color: black;
+}
+p{
+    color: antiquewhite;
+}
+footer{
+    background-color: blue;
+    padding: 30px;
+    align-items: center
+    ;display: flex;
+}
